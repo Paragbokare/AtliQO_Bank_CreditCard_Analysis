@@ -24,12 +24,7 @@ The analysis is divided into two phases:
 | **Environment** | Jupyter Notebook |
 
 ## 📁 Project Structure
-
+* Dataset : Real Data from the AtliQo Bank 
 * `phase_1_atliqo_bank.ipynb`: Focuses on data ingestion, handling missing values, data type corrections, and initial statistical summaries.
 * `phase_2_atliqo_bank.ipynb`: Deep dive into visualization, pivot table analysis, and answering complex business questions regarding customer spend.
 
-## 🛠️ Installation & Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/Atliqo-Bank-Analysis.git](https://github.com/YourUsername/Atliqo-Bank-Analysis.git)
